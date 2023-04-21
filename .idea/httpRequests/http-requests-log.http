@@ -1,0 +1,36 @@
+GET http://localhost:8060/organization/1/with-departments-and-employees
+
+<> 2023-04-21T173932.200.json
+
+###
+
+GET http://localhost:8066/organization/1/with-departments
+
+<> 2023-04-21T172508.200.json
+
+###
+
+GET http://localhost:8060/organization/1/with-departments
+
+###
+
+GET http://localhost:58246/1/with-employees
+
+###
+
+GET http://localhost:58246/1/with-employees
+
+<> 2023-04-21T154541.500.json
+
+###
+
+GET http://localhost:58049/1/with-employees
+
+###
+
+GET http://localhost:58049/1/with-employees
+
+<> 2023-04-21T154144.200.json
+
+###
+
