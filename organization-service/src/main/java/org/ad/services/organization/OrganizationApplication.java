@@ -3,11 +3,11 @@ package org.ad.services.organization;
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.info.Info;
 import org.ad.services.organization.model.Organization;
+import org.ad.services.organization.repository.OrganizationRepository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 import org.springframework.context.annotation.Bean;
-import org.ad.services.organization.repository.OrganizationRepository;
 
 @SpringBootApplication
 @EnableFeignClients

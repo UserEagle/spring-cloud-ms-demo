@@ -1,7 +1,7 @@
 package org.ad.services.department;
 
-import org.ad.services.department.repository.DepartmentRepository;
 import org.ad.services.department.model.Department;
+import org.ad.services.department.repository.DepartmentRepository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.openfeign.EnableFeignClients;
