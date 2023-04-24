@@ -1,3 +1,117 @@
+GET http://localhost:8060/employee/test
+
+<> 2023-04-24T153703.200.txt
+
+###
+
+GET http://localhost:8060/organization/1/with-departments-and-employees
+
+<> 2023-04-24T153655.200.json
+
+###
+
+GET http://localhost:8060/employee/test
+
+<> 2023-04-24T153649.200.txt
+
+###
+
+GET http://localhost:8060/employee/test
+
+<> 2023-04-24T152502.200.txt
+
+###
+
+GET http://localhost:8060/employee/test
+
+<> 2023-04-24T152439.200.txt
+
+###
+
+GET http://localhost:8060/organization/1/with-departments-and-employees
+
+<> 2023-04-24T152212.200.json
+
+###
+
+GET http://localhost:8060/employee/test
+
+<> 2023-04-24T152154.500.json
+
+###
+
+GET http://localhost:8060/employee/test
+
+<> 2023-04-24T152127.500.json
+
+###
+
+GET http://localhost:8060/organization/1/with-departments-and-employees
+
+<> 2023-04-24T152113.200.json
+
+###
+
+GET http://localhost:8060/organization/1/with-departments-and-employees
+
+<> 2023-04-24T150532.500.json
+
+###
+
+GET http://localhost:8060/organization/1/with-departments-and-employees
+
+<> 2023-04-24T150515.500.json
+
+###
+
+GET http://localhost:8060/organization/1/with-departments-and-employees
+
+<> 2023-04-24T150429.500.json
+
+###
+
+GET http://localhost:8060/organization/1/with-departments-and-employees
+
+<> 2023-04-24T150408.503.json
+
+###
+
+GET http://localhost:8060/employee/test
+
+<> 2023-04-24T150353.500.json
+
+###
+
+GET http://localhost:8060/employee/test
+
+<> 2023-04-24T145334.200.txt
+
+###
+
+GET http://localhost:8060/employee/test
+
+<> 2023-04-24T145316.200.txt
+
+###
+
+GET http://localhost:8060/employee/test
+
+<> 2023-04-24T144351.500.json
+
+###
+
+GET http://localhost:8060/employee/test
+
+<> 2023-04-24T143920.500.json
+
+###
+
+GET http://localhost:8060/organization/1/with-departments-and-employees
+
+<> 2023-04-24T143345.500.json
+
+###
+
 GET http://localhost:8060/organization/1/with-departments-and-employees
 
 <> 2023-04-23T164944.500.json
@@ -73,6 +187,54 @@ GET http://localhost:8060/organization/1/with-departments-and-employees
 GET http://localhost:8060/organization/1/with-departments-and-employees
 
 <> 2023-04-22T185608.500.json
+
+###
+
+GET http://localhost:8060/organization/1/with-departments-and-employees
+
+<> 2023-04-23T170543.200.json
+
+###
+
+GET http://localhost:8060/organization/1/with-departments-and-employees
+
+<> 2023-04-23T170509.503.json
+
+###
+
+GET http://localhost:8060/organization/1/with-departments-and-employees
+
+<> 2023-04-23T170356.500.json
+
+###
+
+GET http://localhost:8060/organization/1/with-departments-and-employees
+
+<> 2023-04-23T170149.500.json
+
+###
+
+GET http://localhost:8060/organization/1/with-departments-and-employees
+
+<> 2023-04-23T170054.500.json
+
+###
+
+GET http://localhost:8060/organization-service/1/with-departments-and-employees
+
+<> 2023-04-23T165358.404.json
+
+###
+
+GET http://localhost:8060/organization/1/with-departments-and-employees
+
+<> 2023-04-23T165341.503.json
+
+###
+
+GET http://localhost:8060/organization/1/with-departments-and-employees
+
+<> 2023-04-23T165322.503.json
 
 ###
 
